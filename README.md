@@ -1,4 +1,7 @@
 # myLibrary
+
+See Project in Browser: https://casedo.github.io/myLibrary/
+
 This is another project which was created as part of OdinProject - JavaScript classes. <br>
 <b>More Details:</b> https://www.theodinproject.com/courses/javascript/lessons/library <br><br>
 
